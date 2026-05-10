@@ -27,7 +27,7 @@ The synthetic dataset was derived from the **issai/kazparc** corpus and processe
 
 ---
 
-## 📊 Ablation Analysis & Results
+## 📊 Results
 
 The model was fine-tuned using [kazars24/trocr-base-handwritten-ru](https://huggingface.co/kazars24/trocr-base-handwritten-ru) as the base. The table below shows the performance improvement before and after fine-tuning.
 
